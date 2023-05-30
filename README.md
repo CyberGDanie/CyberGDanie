@@ -14,8 +14,8 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Active directory Homelab Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [WGU Masters in CyberSecurity (Overview)](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Active directory Homelab Tutorial](https://www.youtube.com)
+- [WGU Masters in CyberSecurity (Overview)](https://www.youtube.com)
 
 
 <h2> 🤳 Connect with me:</h2>
