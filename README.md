@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <a href="https://www.linkedin.com/in/daniel-asaam24/"Aspiring Cybersecurity Professional/a>
+<h1>Hi, I'm Daniel! <a href="https://www.linkedin.com/in/daniel-asaam24/"> Aspiring Cybersecurity Professional
  
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
@@ -8,9 +8,10 @@
   - [Vulnerabililty Assessment Labs](https://github.com/cybergdanie)
 
 <h2>Certifications</h2>
- 
-- [AWS Certified Cloud Practitiner]
 
+- [Comptia Pentest +]
+- [Comptia CYSA +]
+- [AWS Certified Cloud Practitiner]
 - [Comptia Security Plus]
 
 
@@ -26,12 +27,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on projects and certifications
+- 🌱 I’m currently learning for Comptia Security X certification.
+
+
 -->
